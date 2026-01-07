@@ -1,7 +1,10 @@
 ---
-layout: default
+layout: home
 title: Accueil
 ---
+
+
+
 
 # HATTA BELFAQIR
 

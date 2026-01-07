@@ -1,21 +1,30 @@
 ---
-layout: default
-title: Nom du projet
+title: Projets
+permalink: /projects/
 ---
 
+
 ## Contexte
-Pourquoi ce projet existe (scolaire, perso…)
+Ce projet est un projet scolaire dont l’objectif est de créer un site portfolio.  
+Il sert à présenter notre formation, nos compétences et nos informations personnelles de manière claire et lisible, afin que tout soit compréhensible en quelques secondes.
 
 ## Objectif
-Ce que le projet devait faire
+Mettre en avant toutes les informations importantes de façon simple et rapide à lire.  
+Le but est que l’on puisse comprendre qui nous sommes, ce que nous savons faire et notre parcours en quelques secondes.  
+En résumé, ce portfolio représente un CV en ligne.
 
 ## Travail réalisé
-Ce que TU as fait concrètement
+Création d’un site portfolio présentant :
+- mon profil
+- ma formation
+- mes compétences
+- mes projets
 
 ## Technologies utilisées
-- Langage
-- Outils
+- Markdown (md)
+- Jekyll
+- HTML
+- Visual Studio Code (VS Code)
 
 ## Liens
-- GitHub (si existe)
-- Démo (si existe)
+- GitHub : https://github.com/hattabelfaqir

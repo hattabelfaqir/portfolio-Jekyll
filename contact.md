@@ -1,10 +1,12 @@
 ---
-layout: default
 title: Contact
+permalink: /contact/
 ---
+
+
 
 # Contact
 
-📧 Email : ton.email@example.com  
-💻 GitHub : https://github.com/tonpseudo  
-🔗 LinkedIn : https://linkedin.com/in/tonprofil
+- 📧 Email : hatta.belfaqir@epitech.eu 
+- 💻 GitHub : https://github.com/hattabelfaqir 
+- 🔗 LinkedIn : https://www.linkedin.com/in/hatta-belfaqir/
