@@ -1,79 +1,76 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# Config
+# ========================================================================================
 
-title: Portfolio
-email: hatta.belfaqir@epitech.eu
-description: >- # this means to ignore newlines until "baseurl:"
- Écrivez ici une description géniale pour votre nouveau site. Vous pouvez modifier cette ligne dans _config.yml. 
- Elle apparaîtra dans les métadonnées de l'en-tête de votre document (pour les résultats de recherche Google) 
- et dans la description de votre site dans feed.xml.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username: hatta-belfaqir
-github_username:  hattabelfaqir
+lang: fr
 
-# Build settings
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "air"
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+title: HATTA BELFAQIR
+
+description: >
+  Portfolio de développeur web présentant mes projets, mes compétences
+  et mon évolution technique à travers des sites modernes, dynamiques
+  et interactifs.
+
+tagline: Développeur web · Frontend & Backend
+
+keywords: []
+
+logo: false
+
+author:
+  name: HATTA BELFAQIR
+  email: hattab@example.com
+
+menu:
+  - title: Projets
+    url: /projets/
+  - title: À propos
+    url: /about/
+  - title: Contact
+    url: /contact/
+
+copyright: © 2024 HATTA BELFAQIR. Tous droits réservés.
+
+permalink: /:categories/:year-:month-:day-:title/
+
+paginate: 10
+paginate_path: /:num/
+
+theme: jekyll-theme-hydejack
+
+# logo: /asset/img/mon-logo.png
+# favicon: /asset/img/mon-favicon.png
+# accent_image: /asset/img/mon-image-glace.jpg
+
+accent_color: rgb(79,177,186)
+theme_color: rgb(25,55,71)
 
 defaults:
   - scope:
-      path: ""
+      path: asset/
     values:
-      layout: single
+      sitemap: false
 
-# collections:
-#   featured_categories:
-#     output: true
-#   featured_tags:
-#     output: true
+hydejack:
+  no_drawer: false
+  no_navbar: false
+  no_search: false
+  no_break_layout: true
+  no_large_headings: false
+  advertise: false
 
-# defaults:
-#   - scope:
-#       path: ""
-#     values:
-#       layout: page
+collections:
+  projects:
+    permalink: /projects/:path/
+    output: true
 
+exclude:
+  - .jekyll-cache
+  - .sass-cache
+  - vendor
+  - Gemfile
+  - Gemfile.lock
 
-
-
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap

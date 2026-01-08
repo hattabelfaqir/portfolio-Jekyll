@@ -1,8 +1,6 @@
 ---
-title: À propos
-permalink: /about/
+layout: about
 ---
-
 
 # À propos de moi
 
