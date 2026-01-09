@@ -40,6 +40,7 @@ theme: jekyll-theme-hydejack
 # logo: /asset/img/mon-logo.png
 # favicon: /asset/img/mon-favicon.png
 # accent_image: /asset/img/mon-image-glace.jpg
+# image: /asset/img/mon-image-glace.jpg
 
 accent_color: rgb(79,177,186)
 theme_color: rgb(25,55,71)
