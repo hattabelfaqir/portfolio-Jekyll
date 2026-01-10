@@ -6,6 +6,8 @@ hide_image: false
 cover: true
 ---
 
+# HATTA BELFAQIR
+
 ## Intitulé / statut
 Étudiante en informatique a EPITECH – développement web full-stack
 

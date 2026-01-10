@@ -2,6 +2,8 @@
 layout: about
 ---
 
+# À propos de moi
+
 ## Formation
 - Bac +2 – EPITECH – Promotion 2027
 
