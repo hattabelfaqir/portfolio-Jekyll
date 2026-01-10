@@ -2,7 +2,7 @@
 permalink: /projects/projet2/
 ---
 
-## Projet 2 : Formulaire Klaviyo
+<!-- ## Projet 2 : Formulaire Klaviyo -->
 
 **Description**  
 Réalisation de deux formulaires Klaviyo identiques, développés avec deux technologies différentes afin de comparer les approches et les performances.
