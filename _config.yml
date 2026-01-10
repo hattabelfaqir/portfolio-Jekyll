@@ -61,8 +61,8 @@ hydejack:
 
 collections:
   projects:
-    permalink: /projects/:path/
     output: true
+    permalink: /projects/:path/
 
 exclude:
   - .jekyll-cache

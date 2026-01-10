@@ -1,3 +1,8 @@
+---
+title: Projets
+permalink: /projets/
+---
+
 # Mes Projets
 
 Bienvenue sur ma page de projets.  

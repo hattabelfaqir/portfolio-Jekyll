@@ -1,3 +1,9 @@
+---
+layout: contact
+title: Contact
+permalink: /contact/
+---
+
 # Contact
 
 - 📧 Email : hatta.belfaqir@epitech.eu 
