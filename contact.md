@@ -1,6 +1,7 @@
-
-
-# Contact
+---
+title: Contact
+permalink: /contact/
+---
 
 - 📧 Email : hatta.belfaqir@epitech.eu 
 - [💻 GitHub](https://github.com/hattabelfaqir )

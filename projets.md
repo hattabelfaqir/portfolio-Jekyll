@@ -1,4 +1,5 @@
 ---
+title: Mes Projets
 permalink: /projets/
 ---
 
