@@ -1,3 +1,5 @@
+baseurl: "/portfolio-Jekyll"
+
 lang: fr
 
 title: HATTA BELFAQIR
@@ -60,9 +62,11 @@ hydejack:
   advertise: false
 
 collections:
-  _projects:
+  projects:       # renomme sans _
     output: true
-    permalink: /_projects/:title/
+    permalink: /projects/:title/
+
+
 
 exclude:
   - .jekyll-cache

@@ -1,3 +1,7 @@
+---
+permalink: /projects/projet1/
+---
+
 ## Projet 1 : Portfolio Personnel
 
 **Description**  

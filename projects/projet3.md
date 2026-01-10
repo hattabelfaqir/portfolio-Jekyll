@@ -1,3 +1,7 @@
+---
+permalink: /projects/projet3/
+---
+
 ## Projet 3 : Projet Personnel – Boutique GTA RP
 
 **Description**  
@@ -16,7 +20,7 @@ Le projet a débuté sous la forme d’un site statique en HTML, CSS et JavaScri
 
 ![Boutique V1 – Page 1](/assets/images/boutiquev21.png)
 ![Boutique V1 – Page 2](/assets/images/boutiquev22.png)
-![Boutique V1 – Page 3](/assets/images/boutiquev23.png)
+![Boutique V1 – Page 3](/assets/images/boutiquev13.png)
 ![Boutique V1 – Page 4](/assets/images/boutiquev24.png)
 ![Boutique V1 – Page 5](/assets/images/boutiquev25.png)
 ![Boutique V1 – Page 6](/assets/images/boutiquev26.png)

@@ -1,3 +1,7 @@
+---
+permalink: /projects/projet2/
+---
+
 ## Projet 2 : Formulaire Klaviyo
 
 **Description**  

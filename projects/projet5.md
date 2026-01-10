@@ -1,3 +1,7 @@
+---
+permalink: /projects/projet5/
+---
+
 ## Projet 5 : Projet Ultime – Site Expérimental & Full Stack
 
 **Description**  
