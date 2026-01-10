@@ -60,9 +60,9 @@ hydejack:
   advertise: false
 
 collections:
-  projets:
+  _projects:
     output: true
-    permalink: /projets/:title/
+    permalink: /_projects/:title/
 
 exclude:
   - .jekyll-cache
