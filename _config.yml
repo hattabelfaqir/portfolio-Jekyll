@@ -1,6 +1,3 @@
-# Config
-# ========================================================================================
-
 lang: fr
 
 title: HATTA BELFAQIR
@@ -35,6 +32,8 @@ permalink: /:categories/:year-:month-:day-:title/
 paginate: 10
 paginate_path: /:num/
 
+theme: jekyll-theme-hydejack
+
 remote_theme: hydecorp/hydejack
 
 plugins:
@@ -42,11 +41,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-remote-theme
-
-# logo: /asset/img/mon-logo.png
-# favicon: /asset/img/mon-favicon.png
-# accent_image: /asset/img/mon-image-glace.jpg
-# image: /asset/img/mon-image-glace.jpg
 
 accent_color: rgb(79,177,186)
 theme_color: rgb(25,55,71)
@@ -66,9 +60,9 @@ hydejack:
   advertise: false
 
 collections:
-  projects:
+  projets:
     output: true
-    permalink: /projects/:title/
+    permalink: /projets/:title/
 
 exclude:
   - .jekyll-cache
@@ -76,8 +70,3 @@ exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
