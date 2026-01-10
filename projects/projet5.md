@@ -2,8 +2,6 @@
 permalink: /projects/projet5/
 ---
 
-<!-- ## Projet 5 : Projet Ultime – Site Expérimental & Full Stack -->
-
 **Description**  
 Ce projet est mon **projet principal et final**, celui sur lequel je compte investir le plus de temps et d’énergie.  
 Il a pour objectif de regrouper **l’ensemble des technologies que j’apprendrai durant mon parcours scolaire et personnel**.

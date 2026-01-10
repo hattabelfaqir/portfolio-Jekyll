@@ -2,8 +2,6 @@
 permalink: /projects/projet4/
 ---
 
-## Projet 4 : EGAMES - Trackmania V2 (Version Non Officielle)
-
 **Description**  
 Réalisation d’une version personnalisée du site du tournoi **Trackmania V2**, avec des retouches personnelles visant à améliorer l’interface et l’expérience utilisateur.  
 ⚠️ Cette version **n’est pas le site officiel** du tournoi.

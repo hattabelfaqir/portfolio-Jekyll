@@ -2,8 +2,6 @@
 permalink: /projects/projet3/
 ---
 
-<!-- ## Projet 3 : Projet Personnel – Boutique GTA RP -->
-
 **Description**  
 Création d’une boutique GTA RP permettant l’achat de contenus *in-game*.  
 Le projet a débuté sous la forme d’un site statique en HTML, CSS et JavaScript, avec pour objectif une évolution vers une version dynamique.

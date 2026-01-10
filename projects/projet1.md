@@ -2,8 +2,6 @@
 permalink: /projects/projet1/
 ---
 
-<!-- ## Projet 1 : Portfolio Personnel -->
-
 **Description**  
 Site web personnel permettant de présenter mon profil, mes projets et mon CV en ligne.
 

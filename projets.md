@@ -2,8 +2,6 @@
 permalink: /projets/
 ---
 
-<!-- # Mes Projets -->
-
 Bienvenue sur ma page de projets.  
 Vous trouverez ici une sélection de travaux que j’ai réalisés, allant de petits prototypes à des projets plus avancés.  
 Chaque projet comprend une description, les technologies utilisées et, lorsque c’est possible, un lien ou des visuels.
