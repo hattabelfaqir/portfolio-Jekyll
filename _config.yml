@@ -34,7 +34,7 @@ permalink: /:categories/:year-:month-:day-:title/
 paginate: 10
 paginate_path: /:num/
 
-theme: jekyll-theme-hydejack
+# theme: jekyll-theme-hydejack
 
 remote_theme: hydecorp/hydejack
 
@@ -66,11 +66,14 @@ collections:
     output: true
     permalink: /projects/:title/
 
-
-
 exclude:
   - .jekyll-cache
   - .sass-cache
   - vendor
   - Gemfile
   - Gemfile.lock
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
