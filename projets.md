@@ -6,11 +6,11 @@ Chaque projet comprend une description, les technologies utilisées et, lorsque 
 
 ---
 
-## [Projet 1 : Portfolio Personnel](/projects/projet-1/)
-## [Projet 2 : Formulaire Klaviyo](/projects/projet-2/)
-## [Projet 3 : Projet Personnel – Boutique GTA RP](/projects/projet-3/)
-## [Projet 4 : EGAMES - Trackmania V2 (Version Non Officielle)](/projects/projet-4/)
-## [Projet 5 : Projet Ultime – Site Expérimental & Full Stack](/projects/projet-5/)
+## [Projet 1 : Portfolio Personnel](/projects/projet1/)
+## [Projet 2 : Formulaire Klaviyo](/projects/projet2/)
+## [Projet 3 : Projet Personnel – Boutique GTA RP](/projects/projet3/)
+## [Projet 4 : EGAMES - Trackmania V2 (Version Non Officielle)](/projects/projet4/)
+## [Projet 5 : Projet Ultime – Site Expérimental & Full Stack](/projects/projet5/)
 
 
 *De nouveaux projets seront ajoutés régulièrement. Restez connectés !*
