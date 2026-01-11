@@ -56,4 +56,5 @@ Ce site représente une **vitrine technique**, et évoluera continuellement au f
 👉 [Voir l’avancée du projet sur Figma](https://www.figma.com/site/z70r74gRnDaQ8M33rwHfwh/Sans-titre?node-id=0-1&t=7e7Mym2vl5ztH99P-1)
 
 **Statut**  
+
 🚧 Projet en cours – développement continu et évolutif.
