@@ -1,8 +1,7 @@
 ---
+title: Formulaire Klivio
 permalink: /projects/projet2/
 ---
-
-# Formulaire Klivio
 
 **Description**  
 Projet réalisé dans le cadre d’un exercice scolaire ayant pour objectif d’évaluer notre niveau en développement front-end, notre capacité à reproduire une interface existante avec précision, ainsi que notre autonomie.
