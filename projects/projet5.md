@@ -47,7 +47,7 @@ Ce site représente une **vitrine technique**, et évoluera continuellement au f
 > Le site est encore en phase très précoce.  
 > Seules les bases visuelles sont en place.
 
-![Projet Ultime – Aperçu](/assets/images/projet-ultime.png)
+![Projet Ultime – Aperçu]({{ site.baseurl }}/assets/projet-ultime.png)
 
 ---
 

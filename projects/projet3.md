@@ -16,12 +16,12 @@ Le projet a débuté sous la forme d’un site statique en HTML, CSS et JavaScri
 
 **Aperçus du site**
 
-![Boutique V1 – Page 1](/assets/images/boutiquev21.png)
-![Boutique V1 – Page 2](/assets/images/boutiquev22.png)
-![Boutique V1 – Page 3](/assets/images/boutiquev13.png)
-![Boutique V1 – Page 4](/assets/images/boutiquev24.png)
-![Boutique V1 – Page 5](/assets/images/boutiquev25.png)
-![Boutique V1 – Page 6](/assets/images/boutiquev26.png)
+![Boutique V1 – Page 1]({{ site.baseurl }}/assets/boutiquev21.png)
+![Boutique V1 – Page 2]({{ site.baseurl }}/assets/boutiquev22.png)
+![Boutique V1 – Page 3]({{ site.baseurl }}/assets/boutiquev13.png)
+![Boutique V1 – Page 4]({{ site.baseurl }}/assets/boutiquev24.png)
+![Boutique V1 – Page 5]({{ site.baseurl }}/assets/boutiquev25.png)
+![Boutique V1 – Page 6]({{ site.baseurl }}/assets/boutiquev26.png)
 
 ---
 
@@ -38,11 +38,9 @@ Le projet a débuté sous la forme d’un site statique en HTML, CSS et JavaScri
 
 **Aperçus de la nouvelle version**
 
-![Boutique V2 – Page 1](/assets/images/boutiquev11.png)
-![Boutique V2 – Page 2](/assets/images/boutiquev12.png)
-![Boutique V2 – Page 3](/assets/images/boutiquev13.png)
+![Boutique V2 – Page 1]({{ site.baseurl }}/assets/boutiquev11.png)
+![Boutique V2 – Page 2]({{ site.baseurl }}/assets/boutiquev12.png)
+![Boutique V2 – Page 3]({{ site.baseurl }}/assets/boutiquev13.png)
 
 **Statut**  
 🛠️ Projet en cours de développement.
-
----
