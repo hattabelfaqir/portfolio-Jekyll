@@ -1,4 +1,5 @@
 ---
+title: Boutique GTA RP
 permalink: /projects/projet3/
 ---
 
